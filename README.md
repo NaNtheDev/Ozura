@@ -1,6 +1,6 @@
 ### This script it's for education purpose only, don't hack yourself !
 # Whats is Ozura ?
-Ozura is a powerfull toolkit for DoS http services and IP, Ozura use the http/s protocol, http is better for bypass firewall of yours zombies, zombies make request every 30 seconds
+Ozura is a powerfull toolkit for DoS http services and IP, Ozura use the http/s protocol, http is better for bypass firewall of yours zombies, zombies make request every 30 seconds on Ozura Server, and the zombies make http/syn/udp request every seconds to the target
 
 # Who to use ?
 _(Python 3 is nedded and nodejs@12)_
