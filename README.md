@@ -21,3 +21,13 @@ $ node index.js
 ```
 **Now your botnet is ready**
 Just share the Ozura_Client/main.py for infect target and after you have your uniq army !
+
+## Images
+![ozura](https://github.com/NaNtheDev/Ozura/blob/images/main.PNG?raw=true)
+
+Attack a target:
+![attack panel](https://github.com/NaNtheDev/Ozura/blob/images/attack.PNG?raw=true)
+![infos](https://github.com/NaNtheDev/Ozura/blob/images/attack%20terminal.PNG?raw=true)
+
+Infos:
+![Some infos about clients](https://github.com/NaNtheDev/Ozura/blob/images/title.PNG?raw=true)
