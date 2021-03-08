@@ -6,7 +6,7 @@ Ozura is a powerfull toolkit for DoS http services and IP
 _(Python 3 is nedded and nodejs@12)_
 
 ```sh
-$ git clone https://github.com/NaNdev-pix/Ozura
+$ git clone https://github.com/NaNtheDev/Ozura
 $ cd Ozura && py setup.py install # Now you just wait and all packages will be installed 
 ```
 
