@@ -1,0 +1,23 @@
+{
+  "name": "botnet-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ddos",
+    "botnet",
+    "nodejs"
+  ],
+  "author": "NaN",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "enmap": "^5.8.4",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
