@@ -1,0 +1,27 @@
+{
+  "name": "ozura-manager-electron",
+  "version": "0.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "..."
+  },
+  "keywords": [
+    "ddos",
+    "gui",
+    "botnet",
+    "python"
+  ],
+  "author": "NaN",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "electron": "^11.2.3"
+  },
+  "dependencies": {
+    "electron-packager": "^15.2.0"
+  }
+}
