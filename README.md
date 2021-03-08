@@ -6,7 +6,7 @@ _(Python 3 is nedded and nodejs@12)_
 
 ```sh
 $ git clone https://github.com/NaNdev-pix/Ozura
-$ cd Ozura && py setup.py # Now you just wait and all packages will be installed 
+$ cd Ozura && py setup.py install # Now you just wait and all packages will be installed 
 ```
 
 ### Work in the web ?
