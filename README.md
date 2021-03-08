@@ -33,4 +33,4 @@ Just share the Ozura_Client/main.py for infect target and after you have your un
 ![Some infos about clients](https://github.com/NaNtheDev/Ozura/blob/images/title.PNG?raw=true)
 
 # Important !
-If you try udp/syn flood attack you need enter the target look like this: <IP>:<PORT> (255.255.255.225:22) <- for attack ssh port on 255.255.255.255
+If you try to use udp/syn flood attack you need enter the target look like this: <IP>:<PORT> 1.1.1.1:22 <- for attack ssh port on 1.1.1.1
