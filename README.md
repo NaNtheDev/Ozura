@@ -1,4 +1,4 @@
-### Educational Purpose Only
+### This script it's for education purpose only, don't hack yourself !
 # Whats is Ozura ?
 Ozura is a powerfull toolkit for DoS http services and IP
 
