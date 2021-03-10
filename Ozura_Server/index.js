@@ -1,3 +1,11 @@
+/* Script by: NaN 
+*  Discord: NaN#7070
+*  Github: https://github.com/NaNtheDev
+*  Repos: https://github.com/NaNtheDev/Ozura
+*  Apache-License 2.0
+*  Reuse permited, but need this following tag
+*/
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const { readdir } = require('fs');
