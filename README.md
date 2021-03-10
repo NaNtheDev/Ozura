@@ -37,3 +37,13 @@ Just share the Ozura_Client/main.py for infect target and after you have your un
 If you try to use udp/syn flood attack you need enter the target look like this: <IP>:<PORT> 1.1.1.1:22 <- for attack ssh port on 1.1.1.1.
 I advise you not to compile the application as an executable because most antivirus software will recognize the malicious signature of the application, you can still run the code while being "undetectable" I leave you this explaining how to run applications in hidden mode:
 https://qastack.fr/superuser/62525/run-a-batch-file-in-a-completely-hidden-way
+# Reuse permited, but you need this following tag in the top of all the code
+```js
+/* Script by: NaN 
+*  Discord: NaN#7070
+*  Github: https://github.com/NaNtheDev
+*  Repos: https://github.com/NaNtheDev/Ozura
+*  Apache-License 2.0
+*  Reuse permited, but need this following tag
+*/
+```                                                                      
